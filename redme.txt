@@ -1,0 +1,7 @@
+
+Instrucciones:
+
+1 - Ejecutar el comando:
+	gulp build
+
+2 - Abrir el archivo index.html
